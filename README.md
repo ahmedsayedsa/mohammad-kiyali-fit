@@ -35,17 +35,8 @@ Structure & Sections:
 6. FOOTER:
    - Sleek minimal footer with copyright, links to Instagram (@anthonyricefit), TikTok, and a strong parting message: "Stop wishing. Start transforming."
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://arfit-peak-form.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/0386d324-33a3-4559-aa8f-39aa9b780146).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## Project Overview
+Official bespoke coaching landing page for AR Fit (Anthony Rice) built with modern React, TanStack, and Tailwind CSS.
 
 ## Development
 
