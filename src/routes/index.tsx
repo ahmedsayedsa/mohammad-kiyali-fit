@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import heroCoach from "@/assets/hero-coach.jpg";
+import heroCoach from "@/assets/hero-coach.png.asset.json";
 import transform1 from "@/assets/transform-1.jpg";
 import transform2 from "@/assets/transform-2.jpg";
 import transform3 from "@/assets/transform-3.jpg";
@@ -167,8 +167,8 @@ function Index() {
             <div className="relative">
               <div className="absolute -inset-4 rounded-sm bg-primary/10 blur-3xl" aria-hidden />
               <img
-                src={heroCoach}
-                alt="Anthony Rice, AR Fit transformation coach, in a dark gym"
+                src={heroCoach.url}
+                alt="Anthony Rice, AR Fit transformation coach, in the octagon with arms raised"
                 width={1104}
                 height={1408}
                 className="relative w-full rounded-sm border border-border object-cover"
