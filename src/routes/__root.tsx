@@ -77,14 +77,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "AR Fit | Anthony Rice — Transformation Coach, Fort Lauderdale" },
-      { name: "description", content: "1-on-1 transformation coaching for busy professionals with Anthony Rice in Fort Lauderdale." },
-      { name: "author", content: "Anthony Rice" },
-      { property: "og:title", content: "AR Fit | Anthony Rice — Transformation Coach" },
-      { property: "og:description", content: "Science-backed nutrition, efficient hypertrophy training and relentless accountability for busy professionals." },
+      { title: "Mohammad Kiyali | VIP Coach & IFBB Academy Certified Trainer — Dubai" },
+      { name: "description", content: "Elite personal training and VIP body transformation coaching in Dubai with Mohammad Kiyali. Certified IFBB Academy Trainer & UAE Licensed Coach (#3266108)." },
+      { name: "author", content: "Mohammad Kiyali" },
+      { property: "og:title", content: "Mohammad Kiyali | VIP Fitness Coach — Dubai, UAE" },
+      { property: "og:description", content: "Bespoke fitness and nutrition architecture for executives and VIPs in Dubai. IFBB Certified." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@anthonyricefit" },
+      { name: "twitter:site", content: "@mhammad_kayali_" },
     ],
     links: [
       {
@@ -95,7 +95,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;500;600;700;800&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Cairo:wght@500;600;700;800;900&family=Bebas+Neue&family=Barlow:wght@400;500;600;700;800&display=swap",
       },
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
       { rel: "icon", type: "image/png", href: "/favicon.png" },
