@@ -192,7 +192,7 @@ function Index() {
                 <img
                   src={heroCoach}
                   alt="Mohammad Kiyali, IFBB Certified VIP Coach in Dubai"
-                  className="w-full h-[480px] object-cover object-top"
+                  className="w-full h-[540px] object-cover object-top"
                 />
                 
                 <div className="absolute bottom-0 inset-x-0 border-t border-[#D4AF37]/30 bg-[#090A0C]/90 p-5 backdrop-blur-md">
